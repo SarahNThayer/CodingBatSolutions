@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class parrotTrouble2
+public class parrotTrouble
 {
 	public static void main(String[] args) 
 	{
